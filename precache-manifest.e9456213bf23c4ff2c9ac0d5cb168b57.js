@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "014eee10ba1af6d9dbc92b1056a1b09b",
+    "revision": "59e4a867516a544f97a0599094b35c03",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "0cf5be2ab5a126a7e287",
+    "revision": "a414aa7dad865a530ed8",
     "url": "/portfolio/static/css/main.98320558.chunk.css"
   },
   {
-    "revision": "d0715d0ac05a014bdcbf",
-    "url": "/portfolio/static/js/2.6838e18e.chunk.js"
+    "revision": "9ac1f65f824115f2bc3a",
+    "url": "/portfolio/static/js/2.48f4a0c7.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/portfolio/static/js/2.6838e18e.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.48f4a0c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0cf5be2ab5a126a7e287",
-    "url": "/portfolio/static/js/main.d4f0cef1.chunk.js"
+    "revision": "a414aa7dad865a530ed8",
+    "url": "/portfolio/static/js/main.a3da83f7.chunk.js"
   },
   {
     "revision": "5d96ae9e392a39d29dcf",
@@ -36,16 +36,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/FoobarPro-Regular.462bd259.otf"
   },
   {
+    "revision": "1ae87bbc9e6365d50b9ecbea1c066e5b",
+    "url": "/portfolio/static/media/background1.1ae87bbc.svg"
+  },
+  {
     "revision": "99ee5c500489d6812c5ab1c981ce99bf",
     "url": "/portfolio/static/media/designer.99ee5c50.png"
   },
   {
     "revision": "9b2a03f5c30d522f8fe511621ee9b785",
     "url": "/portfolio/static/media/devCode.9b2a03f5.svg"
-  },
-  {
-    "revision": "a89ae7182e5c10ba968004c0ca82cd96",
-    "url": "/portfolio/static/media/flatui.a89ae718.svg"
   },
   {
     "revision": "4564716173236b76a53f3f088bbbb13d",

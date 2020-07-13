@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.98320558.chunk.css",
-    "main.js": "/portfolio/static/js/main.d4f0cef1.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.d4f0cef1.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.a3da83f7.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a3da83f7.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.a077f93d.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.a077f93d.js.map",
-    "static/js/2.6838e18e.chunk.js": "/portfolio/static/js/2.6838e18e.chunk.js",
-    "static/js/2.6838e18e.chunk.js.map": "/portfolio/static/js/2.6838e18e.chunk.js.map",
+    "static/js/2.48f4a0c7.chunk.js": "/portfolio/static/js/2.48f4a0c7.chunk.js",
+    "static/js/2.48f4a0c7.chunk.js.map": "/portfolio/static/js/2.48f4a0c7.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.46fbfce16cdbbad065f1657772a49d96.js": "/portfolio/precache-manifest.46fbfce16cdbbad065f1657772a49d96.js",
+    "precache-manifest.e9456213bf23c4ff2c9ac0d5cb168b57.js": "/portfolio/precache-manifest.e9456213bf23c4ff2c9ac0d5cb168b57.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.98320558.chunk.css.map": "/portfolio/static/css/main.98320558.chunk.css.map",
-    "static/js/2.6838e18e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.6838e18e.chunk.js.LICENSE.txt",
+    "static/js/2.48f4a0c7.chunk.js.LICENSE.txt": "/portfolio/static/js/2.48f4a0c7.chunk.js.LICENSE.txt",
     "static/media/CV.pdf": "/portfolio/static/media/CV.19a9e6cc.pdf",
     "static/media/CV.svg": "/portfolio/static/media/CV.de09effe.svg",
     "static/media/App.css": "/portfolio/static/media/FoobarPro-Regular.462bd259.otf",
+    "static/media/background1.svg": "/portfolio/static/media/background1.1ae87bbc.svg",
     "static/media/designer.png": "/portfolio/static/media/designer.99ee5c50.png",
     "static/media/devCode.svg": "/portfolio/static/media/devCode.9b2a03f5.svg",
-    "static/media/flatui.svg": "/portfolio/static/media/flatui.a89ae718.svg",
     "static/media/footer.svg": "/portfolio/static/media/footer.45647161.svg",
     "static/media/koalacare.png": "/portfolio/static/media/koalacare.ec945afa.png",
     "static/media/kunesanlogo.svg": "/portfolio/static/media/kunesanlogo.5b0991ba.svg",
@@ -29,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a077f93d.js",
-    "static/js/2.6838e18e.chunk.js",
+    "static/js/2.48f4a0c7.chunk.js",
     "static/css/main.98320558.chunk.css",
-    "static/js/main.d4f0cef1.chunk.js"
+    "static/js/main.a3da83f7.chunk.js"
   ]
 }
