@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b764e12da9c047dce8b07d31950904af",
+    "revision": "da40433aa56181a11a0c7e26d7690e7a",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "67bc77276249c4d8bfaf",
-    "url": "/portfolio/static/css/main.bc3cfdbe.chunk.css"
+    "revision": "dcadff337562200a3725",
+    "url": "/portfolio/static/css/main.e35be2f7.chunk.css"
   },
   {
-    "revision": "3119279507c05305ed52",
-    "url": "/portfolio/static/js/2.333faa91.chunk.js"
+    "revision": "51e00ba38913cc26a97e",
+    "url": "/portfolio/static/js/2.0b50dfab.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/portfolio/static/js/2.333faa91.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.0b50dfab.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "67bc77276249c4d8bfaf",
-    "url": "/portfolio/static/js/main.6a5c989e.chunk.js"
+    "revision": "dcadff337562200a3725",
+    "url": "/portfolio/static/js/main.2b9e1154.chunk.js"
   },
   {
     "revision": "5d96ae9e392a39d29dcf",
@@ -36,6 +36,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/designer.99ee5c50.png"
   },
   {
+    "revision": "9b2a03f5c30d522f8fe511621ee9b785",
+    "url": "/portfolio/static/media/devCode.9b2a03f5.svg"
+  },
+  {
+    "revision": "a89ae7182e5c10ba968004c0ca82cd96",
+    "url": "/portfolio/static/media/flatui.a89ae718.svg"
+  },
+  {
+    "revision": "4564716173236b76a53f3f088bbbb13d",
+    "url": "/portfolio/static/media/footer.45647161.svg"
+  },
+  {
     "revision": "ec945afa1a5a55a91815b4cf8595038a",
     "url": "/portfolio/static/media/koalacare.ec945afa.png"
   },
@@ -44,23 +56,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/kunesanlogo.5b0991ba.svg"
   },
   {
-    "revision": "b15d81546dd2d6fad2a2b3aeb7f245e8",
-    "url": "/portfolio/static/media/lead-of-engineering.b15d8154.png"
-  },
-  {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
     "url": "/portfolio/static/media/logo.5d5d9eef.svg"
+  },
+  {
+    "revision": "0df261f4d09d402cdf4d50abe9a8cfae",
+    "url": "/portfolio/static/media/mail.0df261f4.svg"
   },
   {
     "revision": "f03fc0ff5791232a925cd6eb820f329a",
     "url": "/portfolio/static/media/materialui.f03fc0ff.png"
   },
   {
-    "revision": "9bb533b247866d1652925aba4234dcc0",
-    "url": "/portfolio/static/media/technical-architect.9bb533b2.png"
+    "revision": "4eb6075690878aa2f343699f7dee0757",
+    "url": "/portfolio/static/media/webDev.4eb60756.svg"
   },
   {
-    "revision": "62dff354ae0be8de5a2eed05408d0708",
-    "url": "/portfolio/static/media/webDev.62dff354.png"
+    "revision": "bce825b21214a99429cc1408dfd86477",
+    "url": "/portfolio/static/media/webDevTask.bce825b2.svg"
   }
 ]);
