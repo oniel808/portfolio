@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "084b93423156dd971fe8679cfc409092",
+    "revision": "2636f29a39f0f63cfb4a1b87f03639df",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "2f56d99a3d5d2dd73680",
+    "revision": "7ca77435d6b950ec1650",
     "url": "/portfolio/static/css/main.c4853398.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.48f4a0c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f56d99a3d5d2dd73680",
-    "url": "/portfolio/static/js/main.bdc4b2d7.chunk.js"
+    "revision": "7ca77435d6b950ec1650",
+    "url": "/portfolio/static/js/main.9e76f7a7.chunk.js"
   },
   {
     "revision": "5d96ae9e392a39d29dcf",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/koalacare.ec945afa.png"
   },
   {
-    "revision": "5b0991ba9437c9ede530f8e2db7f6ef8",
-    "url": "/portfolio/static/media/kunesanlogo.5b0991ba.svg"
+    "revision": "b387defae6f16f180d6a7b36ece2808d",
+    "url": "/portfolio/static/media/kunesanlogo.b387defa.svg"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
