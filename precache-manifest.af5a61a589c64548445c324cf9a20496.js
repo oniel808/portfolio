@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2636f29a39f0f63cfb4a1b87f03639df",
+    "revision": "01da9b6f41242692288174fe19860169",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "7ca77435d6b950ec1650",
+    "revision": "649deef3a17630b12b4f",
     "url": "/portfolio/static/css/main.c4853398.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.48f4a0c7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7ca77435d6b950ec1650",
-    "url": "/portfolio/static/js/main.9e76f7a7.chunk.js"
+    "revision": "649deef3a17630b12b4f",
+    "url": "/portfolio/static/js/main.29b8c3a3.chunk.js"
   },
   {
     "revision": "5d96ae9e392a39d29dcf",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/FoobarPro-Regular.462bd259.otf"
   },
   {
-    "revision": "1ae87bbc9e6365d50b9ecbea1c066e5b",
-    "url": "/portfolio/static/media/background1.1ae87bbc.svg"
+    "revision": "c6645738934721a9039bf14ee983a944",
+    "url": "/portfolio/static/media/background1.c6645738.svg"
   },
   {
     "revision": "99ee5c500489d6812c5ab1c981ce99bf",
